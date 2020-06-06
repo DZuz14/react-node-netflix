@@ -28,4 +28,4 @@ If you are here from the YouTube tutorials, here are the different branches:
   - [Video](https://www.youtube.com/watch?v=NHFZvwDO8e0)
 
 - [Part 3 Branch](https://github.com/DZuz14/react-node-netflix/tree/part-3) 
-  - (*Coming soon*)
+  - (*Video Coming soon*)
